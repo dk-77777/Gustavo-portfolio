@@ -1,0 +1,31 @@
+
+body {
+    background: url("../img/fundo.jpg") center / cover fixed no-repeat;
+}
+
+.navbar .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white !important;
+    font-weight: 600;} 
+
+    section[id] {
+    scroll-margin-top: 100px;
+}
+
+.hover-card {
+    transition: transform 0.3s ease;
+}
+
+.hover-card:hover {
+    transform: scale(1.04);
+
+}
+
+
+.carousel-hover {
+    transition: transform 0.3s ease;
+}
+
+.carousel-hover:hover {
+    transform: scale(1.03);
+}
