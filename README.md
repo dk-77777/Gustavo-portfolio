@@ -28,15 +28,6 @@ O site foi desenvolvido com foco em uma interface moderna, responsiva e simples 
 - • CineMatch Pro
 - • Auto Stock
 
-## 📱 Responsividade
-
-O portfólio foi desenvolvido para funcionar em diferentes tamanhos de tela:
-
-- • Desktop
-- • Notebook
-- • Tablet
-- • Smartphone
-
 ## 🔗 Links
 
 - GitHub: [dk-77777](https://github.com/dk-77777)
